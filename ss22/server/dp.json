@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "gà",
+      "img": "https://th.bing.com/th/id/OIP.yKsTuWap2rTZTQvbctjxNAHaFL?rs=1&pid=ImgDetMain",
+      "price": 12,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "name": "ghế",
+      "img": "https://th.bing.com/th/id/OIP.Xh9ykrT2IyzxOpzrgrK7-AHaHa?pid=ImgDet&rs=1",
+      "price": 15,
+      "quantity": 4
+    },
+    {
+      "id": 3,
+      "name": "tủ",
+      "img": "https://th.bing.com/th/id/OIP.YZk3onAAOT0vj-1n-xR_oQHaLH?pid=ImgDet&rs=1",
+      "price": 50,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "name": "giường",
+      "img": "https://th.bing.com/th/id/OIP.u6cN_F_KCjPA07blHqVeowHaEK?pid=ImgDet&rs=1",
+      "price": 100,
+      "quantity": 1
+    },
+    {
+      "name": "đa",
+      "img": "á",
+      "price": 12,
+      "quantity": 12,
+      "id": 5
+    }
+  ]
+}
