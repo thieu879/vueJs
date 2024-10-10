@@ -1,0 +1,13 @@
+{
+    "students":[
+        {
+            "id": 1,
+            "name": "thiều",
+            "email": "ngt@gmail.com",
+            "address": "nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "2020/02/02"
+        }
+    ]
+}
