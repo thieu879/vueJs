@@ -1,0 +1,46 @@
+{
+    "product":[
+      {
+        "id": 1,
+        "name": "lie lie bag",
+        "img": "https://mtv.vn/uploads/2023/02/25/meo-gg.jpg",
+        "describe": "123",
+        "total": 2,
+        "price": 200
+      },
+      {
+        "id": 2,
+        "name": "sling bag",
+        "img": "https://mtv.vn/uploads/2023/02/25/meo-gg.jpg",
+        "describe": "a small, lightweight bag",
+        "total": 5,
+        "price": 150
+      },
+      {
+        "id": 3,
+        "name": "leather backpack",
+        "img": "https://mtv.vn/uploads/2023/02/25/meo-gg.jpg",
+        "describe": "durable leather backpack",
+        "total": 3,
+        "price": 300
+      },
+      {
+        "id": 4,
+        "name": "travel duffel",
+        "img": "https://mtv.vn/uploads/2023/02/25/meo-gg.jpg",
+        "describe": "spacious bag for traveling",
+        "total": 7,
+        "price": 400
+      }
+    ],
+    "cart":[
+        {
+          "id": 4,
+          "name": "travel duffel",
+          "img": "https://mtv.vn/uploads/2023/02/25/meo-gg.jpg",
+          "describe": "spacious bag for traveling",
+          "total": 7,
+          "price": 400
+        }
+    ]
+}

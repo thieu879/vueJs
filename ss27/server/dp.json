@@ -1,0 +1,28 @@
+{
+    "users":[
+      {
+        "id": 1,
+        "name": "thiều",
+        "email": "ngt@gmail.com",
+        "address": "HN"
+      },
+      {
+        "id": 2,
+        "name": "hải",
+        "email": "hai@gmail.com",
+        "address": "HCM"
+      },
+      {
+        "id": 3,
+        "name": "linh",
+        "email": "linh@gmail.com",
+        "address": "Đà Nẵng"
+      },
+      {
+        "id": 4,
+        "name": "phong",
+        "email": "phong@gmail.com",
+        "address": "Hải Phòng"
+      }
+    ]
+}
